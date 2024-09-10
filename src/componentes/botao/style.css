@@ -1,0 +1,7 @@
+.container-botao button{
+    width: 100px;
+    height: 30px;
+    background-color: blue;
+    color: #FFFFFF;
+    border-radius: 15px;
+}
